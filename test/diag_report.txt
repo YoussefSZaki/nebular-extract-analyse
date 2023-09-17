@@ -1,0 +1,25 @@
+Using [ClIII] 5538/5518 as the density sensitive line ratio:
+ Using [NII] 5755/6548 as the temperature sensitive line ratio: Te = 10394.94742057491 K, Ne = 1283.1768700279454 cm-1
+ Using [ArIII] 5192/7300+ as the temperature sensitive line ratio: Te = 12809.775385294199 K, Ne = 1318.545511994268 cm-1
+ Using [OIII] 4363/5007+ as the temperature sensitive line ratio: Te = 11596.861791089123 K, Ne = 1300.7409823136195 cm-1
+ Using [SII] 4072+/6720+ as the temperature sensitive line ratio: Te = 14371.075729956161 K, Ne = 1332.561799035625 cm-1
+ Using [OI] 5577/6300+ as the temperature sensitive line ratio: Te = 8734.997180158813 K, Ne = 1241.234352203518 cm-1
+Using [ArIV] 4740/4711 as the density sensitive line ratio:
+ Using [NII] 5755/6548 as the temperature sensitive line ratio: Te = 10358.87908967139 K, Ne = 1567.5122942552225 cm-1
+ Using [ArIII] 5192/7300+ as the temperature sensitive line ratio: Te = 12809.775385294199 K, Ne = 1605.8592996184775 cm-1
+ Using [OIII] 4363/5007+ as the temperature sensitive line ratio: Te = 11596.861791089123 K, Ne = 1605.8592996184775 cm-1
+ Using [SII] 4072+/6720+ as the temperature sensitive line ratio: Te = 13053.324808344516 K, Ne = 1605.8592996184775 cm-1
+ Using [OI] 5577/6300+ as the temperature sensitive line ratio: Te = 8730.706510498398 K, Ne = 1524.313643337893 cm-1
+Using [SII] 6731/6716 as the density sensitive line ratio:
+ Using [NII] 5755/6548 as the temperature sensitive line ratio: Te = 10367.884422617588 K, Ne = 1525.4653716355635 cm-1
+ Using [ArIII] 5192/7300+ as the temperature sensitive line ratio: Te = 12809.775385294199 K, Ne = 1655.114945161623 cm-1
+ Using [OIII] 4363/5007+ as the temperature sensitive line ratio: Te = 11596.861791089123 K, Ne = 1593.7761508741762 cm-1
+ Using [SII] 4072+/6720+ as the temperature sensitive line ratio: Te = 12868.658416651697 K, Ne = 1660.1228495904872 cm-1
+ Using [OI] 5577/6300+ as the temperature sensitive line ratio: Te = 8734.997180158813 K, Ne = 1424.1404804070407 cm-1
+Using [OII] 3726/3729 as the density sensitive line ratio:
+ Using [NII] 5755/6548 as the temperature sensitive line ratio: Te = 10385.918581260665 K, Ne = 1388.034505257883 cm-1
+ Using [ArIII] 5192/7300+ as the temperature sensitive line ratio: Te = 12809.775385294199 K, Ne = 1503.730593865161 cm-1
+ Using [OIII] 4363/5007+ as the temperature sensitive line ratio: Te = 11596.861791089123 K, Ne = 1450.1910906693138 cm-1
+ Using [SII] 4072+/6720+ as the temperature sensitive line ratio: Te = 13412.511489918243 K, Ne = 1530.0809935372492 cm-1
+ Using [OI] 5577/6300+ as the temperature sensitive line ratio: Te = 8734.997180158813 K, Ne = 1292.9052230198574 cm-1
+The value of cHbeta = 0.6104771737444794, The value of E(B-V) = 0.4204323197163729
